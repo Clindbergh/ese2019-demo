@@ -1,0 +1,16 @@
+.sidebar {
+    position: absolute;
+    left: 0;
+    right: 20%;
+    top: 0;
+    bottom: 0;
+}
+
+.content {
+    position: absolute;
+    left: 20%;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: #aaa;
+}
